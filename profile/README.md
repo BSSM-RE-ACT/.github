@@ -1,4 +1,7 @@
 # BSSM-RE:ACT
+<p align="center">
+  <img src="로고_이미지_주소" alt="Bumalogue Logo" width="200" />
+</p>
 
 # 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BSSM%20RE:ACT&fontSize=90)
