@@ -22,10 +22,13 @@
 ### 👥 Contributors
 부마로그를 만드는 멋진 팀원들입니다.
 
-<a href="https://github.com/BSSM-RE-ACT/repo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BSSM-RE-ACT/.github" />
-</a>
+## 👥 Our Team
 
+| <img src="https://github.com/gunobo.png" width="120"> | <img src="https://github.com/carhope.png" width="120"> | <img src="https://github.com/yanghyomin.png" width="120"> | <img src="https://github.com/leehyunjae100510.png" width="120"> | <img src="https://github.com/yunji-0504.png" width="120"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **임제민** | **carhope** | **양효민** | **leehyunjae** | **김윤지** |
+| 👑 Lead / Fullstack | 🎨 Frontend | 🎨 Frontend | ⚙️ Backend | ⚙️ Backend |
+| [@gunobo](https://github.com/gunobo) | [@carhope](https://github.com/carhope) | [@yanghyomin](https://github.com/yanghyomin) | [@leehyunjae100510](https://github.com/leehyunjae100510) | [@yunji-0504](https://github.com/yunji-0504) |
 ---
 
 ### 📫 Contact
