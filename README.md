@@ -6,10 +6,6 @@
 
 **부산소프트웨어마이스터고등학교 자유 개발 동아리**
 
-<br>
-
-![banner](./assets/banner.png)
-
 </div>
 
 ---
@@ -67,7 +63,7 @@ BSSM 학생들을 위한 오류 기록 및 공유 플랫폼.<br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BSSM-RE-ACT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![gunobo](https://ghchart.rshah.org/667eea/gunobo)](https://github.com/gunobo)
 
 </div>
 
