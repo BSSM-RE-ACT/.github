@@ -65,10 +65,16 @@ BSSM 학생들을 위한 오류 기록 및 공유 플랫폼.<br>
 <div align="center">
 
 ![gunobo](https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![carhope](https://github-readme-stats.vercel.app/api?username=carhope&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![yanghyomin](https://github-readme-stats.vercel.app/api?username=yanghyomin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![leehyunjae100510](https://github-readme-stats.vercel.app/api?username=leehyunjae100510&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![yunji-0504](https://github-readme-stats.vercel.app/api?username=yunji-0504&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+<br/>
+
+![carhope](https://github-readme-stats.vercel.app/api?username=carhope&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&inline=true)
+![yanghyomin](https://github-readme-stats.vercel.app/api?username=yanghyomin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&inline=true)
+
+<br/>
+
+![leehyunjae100510](https://github-readme-stats.vercel.app/api?username=leehyunjae100510&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&inline=true)
+![yunji-0504](https://github-readme-stats.vercel.app/api?username=yunji-0504&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&inline=true)
 
 </div>
 
