@@ -1,7 +1,17 @@
-# BSSM-RE:ACT
-<p align="center">
-  <img src="로고_이미지_주소" alt="Bumalogue Logo" width="200" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github.com/BSSM-RE-ACT/.github/blob/main/logo.png?raw=true" width="50" style="vertical-align: middle;">
+      </td>
+      <td>
+        <marquee behavior="alternate" direction="left" width="200">
+          <img src="https://github.com/BSSM-RE-ACT/.github/blob/main/react-text-font.png?raw=true" height="40" style="vertical-align: middle;">
+        </marquee>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BSSM%20RE:ACT&fontSize=90)
