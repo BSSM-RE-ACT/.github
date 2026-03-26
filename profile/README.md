@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://github.com/BSSM-RE-ACT/.github/blob/main/profile/assets/club_logo.png?raw=true" width="45" style="vertical-align: middle;">>
-  <span style="display: inline-block; vertical-align: middle;">
-    <marquee behavior="alternate" direction="left" width="150">
-      <span style="color: #007bff;">RE:ACT</span>
-    </marquee>
-  </span>
+  <marquee behavior="alternate" direction="left" width="150">
+    <span style="display: inline-block; vertical-align: middle; color: #007bff;">RE:ACT</span>
+  </marquee>
 </div>
 
 # 
