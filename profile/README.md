@@ -1,16 +1,13 @@
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github.com/BSSM-RE-ACT/.github/blob/main/logo.png?raw=true" width="50" style="vertical-align: middle;">
-      </td>
-      <td>
-        <marquee behavior="alternate" direction="left" width="200">
-          <img src="https://github.com/BSSM-RE-ACT/.github/blob/main/react-text-font.png?raw=true" height="40" style="vertical-align: middle;">
-        </marquee>
-      </td>
-    </tr>
-  </table>
+  <h1>
+    <img src="https://github.com/BSSM-RE-ACT/.github/blob/main/profile/assets/club_logo.png?raw=true" width="45" style="vertical-align: middle;">
+    
+    <span style="display: inline-block; vertical-align: middle;">
+      <marquee behavior="alternate" direction="left" width="150">
+        <span style="color: #007bff;">RE:ACT</span>
+      </marquee>
+    </span>
+  </h1>
 </div>
 
 # 
