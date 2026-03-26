@@ -60,25 +60,6 @@ BSSM 학생들을 위한 오류 기록 및 공유 플랫폼.<br>
 
 ---
 
-<div align="center">
-  <h2>📊 Our Activities</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=radical&hide_border=true" height="165" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=carhope&show_icons=true&theme=radical&hide_border=true" height="165" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=yanghyomin&show_icons=true&theme=radical&hide_border=true" height="165" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=leehyunjae100510&show_icons=true&theme=radical&hide_border=true" height="165" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=yunji-0504&show_icons=true&theme=radical&hide_border=true" height="165" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 ✉️ **Email** — 26_51@bssm.hs.kr
