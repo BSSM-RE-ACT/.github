@@ -52,9 +52,9 @@ BSSM 학생들을 위한 오류 기록 및 공유 플랫폼.<br>
 
 | <img src="https://github.com/gunobo.png" width="72" height="72"> | <img src="https://github.com/carhope.png" width="72" height="72"> | <img src="https://github.com/yanghyomin.png" width="72" height="72"> | <img src="https://github.com/leehyunjae100510.png" width="72" height="72"> | <img src="https://github.com/yunji-0504.png" width="72" height="72"> |
 |:---:|:---:|:---:|:---:|:---:|
-| **임제민** | **차희망** | **양효민** | **이현재** | **김윤지** |
+| **임제민** | **차희망** | **양효민** | **이현재** | **정세윤** |
 | 👑 Lead / Fullstack | 🎨 Frontend | 🎨 Frontend | ⚙️ Backend | ⚙️ Backend |
-| [@gunobo](https://github.com/gunobo) | [@carhope](https://github.com/carhope) | [@yanghyomin](https://github.com/yanghyomin) | [@leehyunjae100510](https://github.com/leehyunjae100510) | [@yunji-0504](https://github.com/yunji-0504) |
+| [@gunobo](https://github.com/gunobo) | [@carhope](https://github.com/carhope) | [@yanghyomin](https://github.com/yanghyomin) | [@leehyunjae100510](https://github.com/leehyunjae100510) | [@seyoon0826](https://github.com/seyoon0826) |
 
 </div>
 
